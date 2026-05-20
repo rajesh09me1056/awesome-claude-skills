@@ -10,7 +10,7 @@
   "plugins": [
     {
       "name": "composio-skills-pack",
-      "source": ".",
+      "source": "./plugins/composio-skills-pack",
       "description": "30+ Claude skills from Composio's awesome-claude-skills repo, bundled into one installable plugin.",
       "version": "1.0.0",
       "homepage": "https://github.com/rajesh09me1056/awesome-claude-skills"
