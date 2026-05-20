@@ -1,0 +1,11 @@
+﻿{
+  "name": "composio-skills-pack",
+  "version": "1.0.0",
+  "description": "30+ Claude skills from Composio's awesome-claude-skills, bundled into one plugin.",
+  "author": {
+    "name": "ComposioHQ (forked)",
+    "url": "https://github.com/ComposioHQ/awesome-claude-skills"
+  },
+  "homepage": "https://github.com/rajesh09me1056/awesome-claude-skills",
+  "license": "MIT"
+}
